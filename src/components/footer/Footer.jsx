@@ -16,8 +16,8 @@ const Footer = () => {
         <div>
           <a href="">Terms</a>
         </div>
+        <br>
       </div>
-      <br>
       <div>Delorean Codes &#169; 2022</div>
     </div>
   )
