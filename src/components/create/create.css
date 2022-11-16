@@ -14,3 +14,8 @@
     border-radius: var(---brad);
     background-color: var(---primary-col);
 }
+
+button {
+    background-color: white;
+    font-family: Roboto;
+}
