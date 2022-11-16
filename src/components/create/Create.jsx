@@ -98,6 +98,9 @@ const Create = (props) => {
               />
             </div>
             <div>
+                <img src="Screen Shot 2022-11-16 at 9.59.15 AM.png" width="1200" height="600>;
+            </div>
+            <div>
               <input
                 className="create-input"
                 type="text"
