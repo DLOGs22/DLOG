@@ -40,7 +40,7 @@ const ListedItems = ({getItems, mrktContract}) => {
                 ))
             :
             <div>
-                No NFTs to display
+                No Items to display
             </div>
             }
         </div>
