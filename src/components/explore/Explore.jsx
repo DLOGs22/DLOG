@@ -60,7 +60,7 @@ const Explore = (props) => {
   if(isLoading){
     return(
       <div>
-        Loading...
+        Loading Items...
       </div>
     )
   }
@@ -77,7 +77,7 @@ const Explore = (props) => {
                     {
                       royaltyReceiver ?
                       <div className='buynow-action'>
-                        {Number(royaltyPercent)}% Royalties 
+                        {Number(royaltyPercent)}% Royalty 
                       </div>
                       :<></>
                     }
@@ -117,7 +117,7 @@ const Explore = (props) => {
         </div>
         :
         <div>
-          No NFTs to display
+          No Items to display
         </div>
       }
     </div>
