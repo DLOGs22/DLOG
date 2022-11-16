@@ -85,7 +85,7 @@ const Featured = (props) => {
                             <button className='next-icon green-icon'>{'>'}</button>
                         </div>
                         <div>
-                            <a href="">Learn more about DeloreanCodes</a>
+                            <a href="">Learn more about Delorean Codes</a>
                         </div>
                     </div>
                 </div>
