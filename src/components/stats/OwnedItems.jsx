@@ -144,7 +144,7 @@ const OwnedItems = ({ownedTokens, mrktContract, nftContract, account}) => {
                                     </div>
                                     : approved ?
                                     <div>
-                                        <button className='explore-buy-btn' onClick={(e) => listNFT(e,Number(item.tokenId))}>List NFT</button>
+                                        <button className='explore-buy-btn' onClick={(e) => listNFT(e,Number(item.tokenId))}>List Item</button>
                                     </div>
                                     :
                                     <div>
