@@ -128,7 +128,7 @@ const OwnedItems = ({ownedTokens, mrktContract, nftContract, account}) => {
                                 {
                                     isListed && Number(item.tokenId) === currentID?
                                     <div>
-                                        <button className='explore-buy-btn' disabled>NFT Listed!</button>
+                                        <button className='explore-buy-btn' disabled>Item Listed!</button>
                                     </div>
                                     : isListing && Number(item.tokenId) === currentID?
                                     <div>
@@ -140,7 +140,7 @@ const OwnedItems = ({ownedTokens, mrktContract, nftContract, account}) => {
                                     </div>
                                     : isApproving?
                                     <div>
-                                        <button className='explore-buy-btn' disabled>Approving...</button>
+                                        <button className='explore-buy-btn' disabled>Continue...</button>
                                     </div>
                                     : approved ?
                                     <div>
