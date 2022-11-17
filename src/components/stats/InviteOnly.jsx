@@ -52,8 +52,7 @@ const InviteOnly = ({mrktContract, nftContract}) => {
                                         </div>
                                     </div>
                                     <div>
-                                        <div>Token ID: # {Number(item.tokenID)}</div>
-                                        <div>Item: # {Number(item.itemID)}</div>
+                                        <div>Item ID: # {Number(item.itemID)}</div>
                                     </div>
                                     
                                 </div>
@@ -85,7 +84,7 @@ const InviteOnly = ({mrktContract, nftContract}) => {
                     ))
                 :
                 <div>
-                    No NFTs to display
+                    No Items to display
                 </div>
             }
         </div>
