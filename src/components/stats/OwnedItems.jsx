@@ -111,7 +111,7 @@ const OwnedItems = ({ownedTokens, mrktContract, nftContract, account}) => {
                                             <input type="checkbox" onChange={toggleCheckbox}/>
                                         </div>
                                         <div>
-                                            Invite Only?
+                                            Invite Only
                                         </div>
                                     </div>
                                     {
