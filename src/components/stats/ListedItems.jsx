@@ -26,7 +26,7 @@ const ListedItems = ({getItems, mrktContract}) => {
                                 </div>
                             </div>
                             <div>
-                                <div>Item: # {Number(item.itemId)}</div>
+                                <div>Item ID: # {Number(item.itemId)}</div>
                             </div>
                         </div>
                         <div>
