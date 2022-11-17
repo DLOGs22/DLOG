@@ -118,7 +118,7 @@ const OwnedItems = ({ownedTokens, mrktContract, nftContract, account}) => {
                                         whitelistEnabled ?
                                         <div>
                                             <div>
-                                                <input className='listprice-input' type="text" placeholder='Enter Address' onChange={(e) => setWhitelistAddress(e.target.value)}/>
+                                                <input className='listprice-input' type="text" placeholder='Enter Invited Address' onChange={(e) => setWhitelistAddress(e.target.value)}/>
                                             </div>
                                         </div>
                                         :<></>
