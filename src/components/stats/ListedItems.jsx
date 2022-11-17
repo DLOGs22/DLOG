@@ -26,7 +26,6 @@ const ListedItems = ({getItems, mrktContract}) => {
                                 </div>
                             </div>
                             <div>
-                                <div>NFT: # {Number(item.tokenId)}</div>
                                 <div>Item: # {Number(item.itemId)}</div>
                             </div>
                         </div>
