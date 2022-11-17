@@ -101,7 +101,7 @@ const OwnedItems = ({ownedTokens, mrktContract, nftContract, account}) => {
                                     <div>{item.description}</div>
                                 </div>
                                 <div>
-                                    <div>NFT ID: #{Number(item.tokenId)}</div>
+                                    <div>Item ID: #{Number(item.tokenId)}</div>
                                 </div>
                             </div>
                             <div>
