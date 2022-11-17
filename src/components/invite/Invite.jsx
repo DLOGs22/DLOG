@@ -108,7 +108,7 @@ const Invite = (props) => {
             }
             {
               isZeroAccount ?
-              <div>NFT is public</div>
+              <div>Item is public</div>
               :<></>
             }
             <div className='invite-user-msg'>
@@ -116,7 +116,7 @@ const Invite = (props) => {
                 {
                   isWhitelistAccount ?
                   <div className='invite-alert-card invite-ok'>
-                    <div>You have been invited to purchase this NFT from:</div>
+                    <div>You have been invited to purchase this Item from:</div>
                     <div>{whitelistItem.seller}</div>
                   </div>
                   :
@@ -127,7 +127,7 @@ const Invite = (props) => {
                   </div>
                   :
                   <div className='invite-alert-card invite-alert'>
-                    <strong>You are NOT Authorized to purchase this NFT.</strong>
+                    <strong>You are NOT Authorized to purchase this Item.</strong>
                   </div>
                 }
               </div>
@@ -139,11 +139,11 @@ const Invite = (props) => {
                     {
                       royaltyReceiver ?
                       <div className='buynow-action'>
-                        {Number(royaltyPercent)}% Royalties 
+                        {Number(royaltyPercent)}% Royalty 
                       </div>
                       :
                       <div className='buynow-action'>
-                        Buy Now to start receiving {Number(royaltyPercent)}% royalties!
+                        Buy Now to start receiving a {Number(royaltyPercent)}% royalty!
                       </div>
                     }
                     <div className='ex-img-wrap'>
