@@ -129,7 +129,7 @@ textarea{
 .showcase {
   color: black;
   background-color: white;
-  border: 3px black solid;
+  border-radius: 15px;
   font-style: italic;
 }
 
