@@ -6,13 +6,13 @@
     grid-gap: 1rem;
     align-items: center;
     height: 500px;
-    margin-top: 10px;
+    margin-top: 12px;
 }
 
 .main-txt{
     font-size: 3rem;
     font-weight: 600;
-    font-style: regular;
+    font-style: normal;
 }
 
 .sec-txt{
