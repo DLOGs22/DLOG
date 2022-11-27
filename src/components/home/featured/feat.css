@@ -18,6 +18,7 @@
 .feat-info-wrap{
     word-break: break-all;
     word-wrap: break-word;
+    background-color: #32ccce;
 }
 .feat-img{
     width: 100%;
