@@ -62,7 +62,10 @@
     color: white !important;
 }
 
-
+.learn-more a:hover{
+    text-decoration: none;    
+    color: #d74945 !important;
+}
 .green-icon{
     background-color: var(---third-col);
 }
