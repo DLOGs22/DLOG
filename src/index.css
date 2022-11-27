@@ -136,4 +136,5 @@ textarea{
 .showcase-feat{
   display: grid;
   grid-template-columns: 1fr 1fr;
+  background: url('./components/gradient.png');
 }
