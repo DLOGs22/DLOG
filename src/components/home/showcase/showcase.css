@@ -1,10 +1,10 @@
 .showcase{
     word-wrap: break-word;
     word-break:normal;
-    padding: 2rem;
     display: grid;
     grid-gap: 1rem;
     align-items: center;
+    padding: -10px;
 }
 
 .main-txt{
@@ -14,7 +14,7 @@
 
 .sec-txt{
     font-size: 2rem;
-    color: var(---light-grey);
+    color: black;
 }
 
 .show-btn-wrap{
@@ -25,6 +25,7 @@
 
 .showcase-btn{
     text-align: center;
+    font-style: normal;
 }
 
 .showcase-btn:hover{
