@@ -76,6 +76,7 @@ textarea{
   max-width: 90vw;
   min-height: 90vh;
   margin: 0px auto;
+  background: url('./components/gradient.png');
 }
 
 .hide{
@@ -136,7 +137,4 @@ textarea{
 .showcase-feat{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  background: url('./components/gradient.png');
-  width: 100%;
-  height: 100%;
 }
