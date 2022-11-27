@@ -141,3 +141,7 @@ textarea{
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+
+.mg2 learn-more {
+  background-color: white;
+}
