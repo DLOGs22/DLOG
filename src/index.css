@@ -71,12 +71,15 @@ textarea{
   margin: 1rem 0;
 }
 
+.app-wrap {
+  background: url('./components/gradient.png');
+}
+
 .main-wrap{
   padding-top: 15vh;
   max-width: 90vw;
   min-height: 90vh;
   margin: 0px auto;
-  background: url('./components/gradient.png');
 }
 
 .hide{
