@@ -12,7 +12,7 @@ const Showcase = () => {
                 Delorean Codes is the world’s first, royalty-incorporated gateway between physical goods and blockchain technology
             </div>
             <div className="show-btn-wrap">
-                <Link to="/link" className="btn showcase-btn light-btn">Link to Code</Link>
+                <Link to="/link" className="btn showcase-btn light-btn">Link an item</Link>
             </div>
         </div>
     )
