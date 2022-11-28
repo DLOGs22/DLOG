@@ -4,6 +4,9 @@ import "./showcase.css"
 
 const Showcase = () => {
     return (
+        <div className='showcase-test'>
+            Buy and sell anything, get paid forever!
+        </div>
         <div className='showcase'>
             <div className='main-txt'>
                 Purchase and create royalty-linked items! 
