@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://use.typekit.net/ouc2lye.css');
 
 *{
   padding: 0;
@@ -21,7 +21,7 @@
 }
 
 body{
-  font-family: 'Roboto', sans-serif;
+  font-family: loos-normal, sans-serif;
 }
 
 a{
