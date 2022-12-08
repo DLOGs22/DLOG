@@ -8,9 +8,9 @@ import (
 )
 
 // Replace these placeholder values with the actual values you want to use
-const contractAddress = "0x9CB46FeeB4642B0A8D1C9c14A50ca65F6c088907"
+const contractAddress = "0xBab72F246Cf67A1F729318E2b0e30aBE43Da3f0a"
 const nftID = "123456"
-const recipientAddress = "0xAe752E7A439Ccf3C29d351Bf59f54dC2A7D97F67"
+const recipientAddress = "0x9CB46FeeB4642B0A8D1C9c14A50ca65F6c088907"
 const privateKey = "6893cf6de50912afa7a5572c4965efbc1b4c4834b55c3269780fa9aa09766469"
 
 func main() {
