@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <div>
         <div className='sec-title mg2'> Contact Us</div>
-        <div className='primary-card contact-card'>
+        <div className='email-card'>
             Email : john@delorean.codes
         </div>
     </div>
